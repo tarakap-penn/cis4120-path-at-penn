@@ -33,5 +33,4 @@ It replicates the **four high-fidelity screens** you provided.
 ---
 
 ## 🙏 Attributions
-- University of Pennsylvania shield logo: [Wikipedia](https://en.wikipedia.org/wiki/File:University_of_Pennsylvania_shield.svg)
 - All HTML/CSS was generated with help from ChatGPT and adapted by the student.
