@@ -18,7 +18,6 @@ It replicates the **four high-fidelity screens** you provided.
 ## Running Instructions
 1. Download the folder.
 2. Open any of the `index-*.html` files in your browser.
-3. Best viewed at **375x812px (iPhone X size)**.
 
 ---
 
