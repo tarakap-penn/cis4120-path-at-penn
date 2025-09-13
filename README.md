@@ -22,15 +22,5 @@ It replicates the **four high-fidelity screens** you provided.
 
 ---
 
-## Features
-- Penn branding header (blue + red).
-- Course sections with **conflict** and **fits schedule** tags.
-- Highlighted recommended section.
-- Dropdown mockups for attributes and cart selection.
-- Permission request form (with character limit noted).
-- Mocked browser bar for realism.
-
----
-
 ## Attributions
 - All HTML/CSS was generated with help from ChatGPT and adapted by the student.
