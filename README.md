@@ -1,9 +1,4 @@
-# Path@Penn Prototype (Stage 3 – Code Prototype)
-
-This is a static **HTML + CSS prototype** of the Path@Penn redesign.  
-It replicates the **four high-fidelity screens** you provided.
-
----
+# Path@Penn Prototype
 
 ## Files
 - `index-math1.html` – MATH 2400 (All Sections)
