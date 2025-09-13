@@ -5,7 +5,7 @@ It replicates the **four high-fidelity screens** you provided.
 
 ---
 
-## 📂 Files
+## Files
 - `index-math1.html` – MATH 2400 (All Sections)
 - `index-math2.html` – MATH 2400 (Fits Schedule)
 - `index-anth1.html` – ANTH 0103 (Attributes + Permission Button)
@@ -15,14 +15,14 @@ It replicates the **four high-fidelity screens** you provided.
 
 ---
 
-## 🚀 Running Instructions
+## Running Instructions
 1. Download the folder.
 2. Open any of the `index-*.html` files in your browser.
 3. Best viewed at **375x812px (iPhone X size)**.
 
 ---
 
-## ✅ Features
+## Features
 - Penn branding header (blue + red).
 - Course sections with **conflict** and **fits schedule** tags.
 - Highlighted recommended section.
@@ -32,5 +32,5 @@ It replicates the **four high-fidelity screens** you provided.
 
 ---
 
-## 🙏 Attributions
+## Attributions
 - All HTML/CSS was generated with help from ChatGPT and adapted by the student.
